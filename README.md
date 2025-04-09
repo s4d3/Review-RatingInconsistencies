@@ -4,7 +4,7 @@ This repository contains experiments and analyses exploring inconsistencies betw
 # Title
 When Reviews Don’t Match Ratings: Exploring Inconsistencies in User Feedback
 
-# Author
+# Authors
 Sari Dewi Budiwati - Suryatiningsih - Pramuko Aji - Rizki Azkia Firmansyah
 
 # Abstract
@@ -12,3 +12,9 @@ User reviews and rating scores play a central role in assessing user satisfactio
 
 # Publication
 Under Consideration in DSE
+
+# Research Grant
+This work is part of The Fundamental Research Scheme: NO. 194/PNLT3/PPM/2022. We sincerely express our gratitude to Telkom  University for providing financial support for this research. Additionally, we acknowledge the contributions of all collaborators and researchers involved in this study, whose insights and efforts have been invaluable in achieving these results.
+
+# Author Contribution
+Conceptualization, methodology, formal analysis and experiments were performed by [Author 1]; data curation and validation were conducted by [Author 1, 2, 3, 4]; writing-original draft preparation was done by [Author 1], and writing-review and editing were done collaboratively by all authors. All authors have read and agreed to the published version of the manuscript.
